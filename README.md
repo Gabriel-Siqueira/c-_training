@@ -1,4 +1,4 @@
-c-_training
+cpp_training
 ===========
 
 programs for practicing c++
