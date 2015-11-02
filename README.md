@@ -1,4 +1,4 @@
-cpp_training
+training_algorithms
 ===========
 
-programs for practicing c++
+programs for practicing new programming languages
